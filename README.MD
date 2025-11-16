@@ -6,14 +6,6 @@
 />
 </p>
 
-<p align="center">
-    Preview do Podcast
-</p>
-
-<div align="center">
-    <audio src="output/capcut-edit.mp3" controls title="Podcast Editado"></audio>
-</div>
-
 # 👑 Bem-vindos ao Trono do Rei!
 
 E aí, invocadores!
